@@ -1,9 +1,9 @@
 <?php
 
-namespace VendorName\ExamplePackage\Console;
+namespace AcfPackage\ExamplePackage\Console;
 
 use Roots\Acorn\Console\Commands\Command;
-use VendorName\ExamplePackage\Facades\Example;
+use AcfPackage\ExamplePackage\Facades\Example;
 
 class ExampleCommand extends Command
 {

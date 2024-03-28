@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\ExamplePackage\Facades;
+namespace AcfPackage\ExamplePackage\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

@@ -1,10 +1,10 @@
 <?php
 
-namespace VendorName\ExamplePackage\Providers;
+namespace AcfPackage\ExamplePackage\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use VendorName\ExamplePackage\Console\ExampleCommand;
-use VendorName\ExamplePackage\Example;
+use AcfPackage\ExamplePackage\Console\ExampleCommand;
+use AcfPackage\ExamplePackage\Example;
 
 class ExampleServiceProvider extends ServiceProvider
 {

@@ -13,7 +13,7 @@ composer require vendor-name/example-package
 You can publish the config file with:
 
 ```shell
-$ wp acorn vendor:publish --provider="VendorName\ExamplePackage\Providers\ExampleServiceProvider"
+$ wp acorn vendor:publish --provider="AcfPackage\ExamplePackage\Providers\ExampleServiceProvider"
 ```
 
 ## Usage
